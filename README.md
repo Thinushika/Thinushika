@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thinushika
-- 👀 Programming and machine learning never make me boring. 
+- 👀 I'm interesting in Programming and machine learning. 
 - 🌱 currently, I'm learning JavaScript/Node.js
 
 <!---
